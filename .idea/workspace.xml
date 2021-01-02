@@ -5,39 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9bbfa91-b86f-4493-9724-cbd835d19ea7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/-Spring-Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/Board.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/Board_project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/src/prac/di/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/src/prac/di/entitiy/Exam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board_project/src/prac/di/entitiy/NewlecExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/-Spring-Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_web_project/.idea/prac_web_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_web_project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_web_project/src/test/java/com/jojoldu/book/springboot/web/HelloControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/modules/prac_web_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/modules/prac_web_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +51,83 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prac_web_project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Gradle.D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/prac_web_project/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/prac_web_project/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlew" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/prac_web_project/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_web_project" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle (1)" />
+        <item itemvalue="Shell Script.gradlew" />
+        <item itemvalue="Gradle.D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +137,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608998652488</updated>
+      <workItem from="1609565320896" duration="102000" />
+      <workItem from="1609593897271" duration="289000" />
+      <workItem from="1609594205997" duration="42000" />
+      <workItem from="1609594257327" duration="139000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
