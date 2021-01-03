@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9bbfa91-b86f-4493-9724-cbd835d19ea7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/-Spring-Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_web_project/.idea/prac_web_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_web_project/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_web_project/src/test/java/com/jojoldu/book/springboot/web/HelloControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/modules/prac_web_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/modules/prac_web_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_web_project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_web_project/src/main/java/com/jojoldu/book/springboot/web/dto/HelloResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_web_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prac_web_project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +38,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Gradle.D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle (1)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="D:/OneDrive - dongseo.ac.kr/GItHub/-Spring-Practice/prac_web_project/build.gradle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -141,6 +109,7 @@
       <workItem from="1609593897271" duration="289000" />
       <workItem from="1609594205997" duration="42000" />
       <workItem from="1609594257327" duration="139000" />
+      <workItem from="1609595462977" duration="8000" />
     </task>
     <servers />
   </component>
