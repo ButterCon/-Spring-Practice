@@ -25,22 +25,24 @@ public class PostsRepositoryTest {
 
     @Test
     public void 게시글저장_불러오기() {
+
         //given
         String title = "테스트 게시글";
         String content = "테스트 본문";
+        String author = "butter_con@kakao.com";
 
         postsRepository.save(Posts.builder()
         .title(title)
         .content(content)
-        .author("butter_con@kakao.com")
+        .author(author)
         .build());
+
+        //when
+        List<Posts> postsList = postsRepository.findAll();
+
+        //then
+        Posts posts = postsList.get(0);
+        assertThat(posts.getTitle()).isEqualTo(title);
+        assertThat(posts.getContent()).isEqualTo(content);
     }
-
-    //when
-    List<Posts> postsList = postsRepository.findAll();
-
-    //then
-    Posts posts = postsList.get(0);
-    assertThat()
-
 }
