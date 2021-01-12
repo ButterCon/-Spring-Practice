@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54a31b7f-3ab2-496e-88c5-14394d996c61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/web/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static.js.app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/footer.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/web/IndexControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -16,25 +23,31 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/domain/posts/Posts$PostsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/domain/posts/Posts$PostsBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/domain/posts/Posts.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/domain/posts/Posts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto$PostsSaveRequestDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto$PostsSaveRequestDtoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jojoldu.book.springboot.web.PostsApiControllerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jojoldu.book.springboot.domain.posts.PostsRepositoryTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jojoldu.book.springboot.web.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.jojoldu.book.springboot.web.PostsApiControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jojoldu.book.springboot.domain.posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.jojoldu.book.springboot.domain.posts.PostsRepositoryTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -45,6 +58,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -56,19 +73,47 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\진현우\OneDrive - dongseo.ac.kr\GItHub\-Spring-Practice\prac_web_project\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="IndexControllerTest.메인페이지_로딩" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jojoldu.book.springboot.web.IndexControllerTest.메인페이지_로딩&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prac_web_project.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jojoldu.book.springboot.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IndexControllerTest.메인페이지_로딩" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,10 +125,30 @@
       <updated>1610164448478</updated>
       <workItem from="1610164450508" duration="21000" />
       <workItem from="1610164544657" duration="651000" />
+      <workItem from="1610200817977" duration="596000" />
+      <workItem from="1610282743819" duration="721000" />
+      <workItem from="1610290094682" duration="597000" />
+      <workItem from="1610347962178" duration="957000" />
+      <workItem from="1610362143556" duration="2306000" />
+      <workItem from="1610370306071" duration="3472000" />
+      <workItem from="1610413592734" duration="7460000" />
+      <workItem from="1610444876902" duration="2605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
