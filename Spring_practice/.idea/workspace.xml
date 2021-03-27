@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e4c004-1f20-4c11-8c2c-cb6a22cb9cc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../prac/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/prac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.idea/prac.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/build/classes/java/main/prac/springboot/web/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/build/classes/java/main/prac/springboot/web/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qFw9jwA9Qe5dM4Mz5Lykazl3qY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e4c004-1f20-4c11-8c2c-cb6a22cb9cc1" name="Default Changelist" comment="" />
+      <created>1616688497045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616688497045</updated>
+      <workItem from="1616688500635" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
