@@ -1,4 +1,0 @@
-prac/springboot/web/HelloController.java
- prac.springboot.web.HelloController
-prac/springboot/Application.java
- prac.springboot.Application
